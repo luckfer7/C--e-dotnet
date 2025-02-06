@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\bin\Debug\net8.0\manipulando-arquivos.exe
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\bin\Debug\net8.0\manipulando-arquivos.deps.json
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\bin\Debug\net8.0\manipulando-arquivos.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\bin\Debug\net8.0\manipulando-arquivos.dll
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\bin\Debug\net8.0\manipulando-arquivos.pdb
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.dll
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\refint\manipulando-arquivos.dll
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.pdb
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\manipulando-arquivos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\manipulando-arquivos\manipulando-arquivos\obj\Debug\net8.0\ref\manipulando-arquivos.dll

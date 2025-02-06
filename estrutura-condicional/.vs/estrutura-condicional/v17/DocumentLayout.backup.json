@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\C# e .NET\\estrutura-condicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E76ABDC-FBF3-43C7-AEEE-2133CB9C2E4D}|estrutura-condicional\\estrutura-condicional.csproj|c:\\users\\lucas\\desktop\\c# e .net\\estrutura-condicional\\estrutura-condicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E76ABDC-FBF3-43C7-AEEE-2133CB9C2E4D}|estrutura-condicional\\estrutura-condicional.csproj|solutionrelative:estrutura-condicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\C# e .NET\\estrutura-condicional\\estrutura-condicional\\Program.cs",
+              "RelativeDocumentMoniker": "estrutura-condicional\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\C# e .NET\\estrutura-condicional\\estrutura-condicional\\Program.cs",
+              "RelativeToolTip": "estrutura-condicional\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:56:25.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

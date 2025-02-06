@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\bin\Debug\net8.0\conceitos-basicos.exe
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\bin\Debug\net8.0\conceitos-basicos.deps.json
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\bin\Debug\net8.0\conceitos-basicos.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\bin\Debug\net8.0\conceitos-basicos.dll
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\bin\Debug\net8.0\conceitos-basicos.pdb
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.dll
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\refint\conceitos-basicos.dll
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.pdb
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\conceitos-basicos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\conceitos-basicos\conceitos-basicos\obj\Debug\net8.0\ref\conceitos-basicos.dll

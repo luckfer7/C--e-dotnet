@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\bin\Debug\net8.0\operadores-aritméticos.exe
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\bin\Debug\net8.0\operadores-aritméticos.deps.json
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\bin\Debug\net8.0\operadores-aritméticos.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\bin\Debug\net8.0\operadores-aritméticos.dll
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\bin\Debug\net8.0\operadores-aritméticos.pdb
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.dll
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\refint\operadores-aritméticos.dll
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.pdb
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\operadores-aritméticos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\operadores-aritméticos\operadores-aritméticos\obj\Debug\net8.0\ref\operadores-aritméticos.dll

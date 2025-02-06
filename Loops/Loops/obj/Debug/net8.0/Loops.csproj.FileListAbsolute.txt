@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\Loops\Loops\obj\Debug\net8.0\ref\Loops.dll

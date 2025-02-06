@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\C# e .NET\\gerenciador de compras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB63951B-DC4A-4474-B735-2DDC29ABF83C}|gerenciador de compras\\gerenciador de compras.csproj|c:\\users\\lucas\\desktop\\c# e .net\\gerenciador de compras\\gerenciador de compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB63951B-DC4A-4474-B735-2DDC29ABF83C}|gerenciador de compras\\gerenciador de compras.csproj|solutionrelative:gerenciador de compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\C# e .NET\\gerenciador de compras\\gerenciador de compras\\Program.cs",
+              "RelativeDocumentMoniker": "gerenciador de compras\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\C# e .NET\\gerenciador de compras\\gerenciador de compras\\Program.cs",
+              "RelativeToolTip": "gerenciador de compras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:31:24.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

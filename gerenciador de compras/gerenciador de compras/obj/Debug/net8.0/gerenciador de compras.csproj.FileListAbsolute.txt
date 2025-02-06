@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\bin\Debug\net8.0\gerenciador de compras.exe
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\bin\Debug\net8.0\gerenciador de compras.deps.json
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\bin\Debug\net8.0\gerenciador de compras.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\bin\Debug\net8.0\gerenciador de compras.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\bin\Debug\net8.0\gerenciador de compras.pdb
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\refint\gerenciador de compras.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.pdb
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\gerenciador de compras.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciador de compras\gerenciador de compras\obj\Debug\net8.0\ref\gerenciador de compras.dll
