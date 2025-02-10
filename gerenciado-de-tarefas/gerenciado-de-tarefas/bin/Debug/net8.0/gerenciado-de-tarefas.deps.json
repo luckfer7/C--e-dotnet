@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gerenciado-de-tarefas/1.0.0": {
+        "runtime": {
+          "gerenciado-de-tarefas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerenciado-de-tarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

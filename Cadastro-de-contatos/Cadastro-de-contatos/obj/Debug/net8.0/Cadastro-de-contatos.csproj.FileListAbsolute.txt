@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\bin\Debug\net8.0\Cadastro-de-contatos.exe
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\bin\Debug\net8.0\Cadastro-de-contatos.deps.json
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\bin\Debug\net8.0\Cadastro-de-contatos.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\bin\Debug\net8.0\Cadastro-de-contatos.dll
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\bin\Debug\net8.0\Cadastro-de-contatos.pdb
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.sourcelink.json
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.dll
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\refint\Cadastro-de-contatos.dll
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.pdb
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\Cadastro-de-contatos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\Cadastro-de-contatos\Cadastro-de-contatos\obj\Debug\net8.0\ref\Cadastro-de-contatos.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\bin\Debug\net8.0\gerenciado-de-tarefas.exe
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\bin\Debug\net8.0\gerenciado-de-tarefas.deps.json
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\bin\Debug\net8.0\gerenciado-de-tarefas.runtimeconfig.json
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\bin\Debug\net8.0\gerenciado-de-tarefas.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\bin\Debug\net8.0\gerenciado-de-tarefas.pdb
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.sourcelink.json
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\refint\gerenciado-de-tarefas.dll
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.pdb
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\gerenciado-de-tarefas.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C# e .NET\gerenciado-de-tarefas\gerenciado-de-tarefas\obj\Debug\net8.0\ref\gerenciado-de-tarefas.dll
