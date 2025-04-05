@@ -1,5 +1,4 @@
-﻿using System.Threading.Channels;
-
+﻿
 class Aluno
 {
     //atributos
