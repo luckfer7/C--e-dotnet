@@ -16,6 +16,8 @@ Console.WriteLine("Cor: " + carroCivic.color);
 Console.WriteLine("Ano: " + carroCivic.Year);
 Console.WriteLine("Modelo: " + carroCivic.Model);
 Console.WriteLine("Marca: " + carroCivic.Brand);
+carroCivic.ComprarCarro();
+
 Console.WriteLine("\n ------------------------------------ \n");
 
 //4. Lista de carros
@@ -29,5 +31,6 @@ foreach (Car car in CarList)
     Console.WriteLine("Ano: " + car.Year);
     Console.WriteLine("Modelo: " + car.Model);
     Console.WriteLine("Marca: " + car.Brand);
+    car.ComprarCarro();
 
 }

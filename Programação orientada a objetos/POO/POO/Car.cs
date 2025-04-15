@@ -14,5 +14,10 @@ namespace POO
         public int Year;
         public string Model;
         public string Brand;
+
+        public void ComprarCarro()
+        {
+            Console.WriteLine("Comprando carro...");
+        }
     }
 }
