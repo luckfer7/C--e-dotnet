@@ -14,13 +14,18 @@ namespace Construtores
         public string Cobertura;
         public int Camadas;
         public string Tamanho;
-        public Cake()
+        public Cake(string sabor, string recheio, string cobertura, int camadas, string tamanho)
         {
-            Sabor = "Chocolate";
-            Recheio = "Morango";
-            Cobertura = "Chocolate";
-            Camadas = 2;
-            Tamanho = "Familia";
+            Sabor = sabor;
+            Recheio = recheio;
+            Cobertura = cobertura;
+            Camadas = camadas;
+            Tamanho = tamanho;
+            //Sabor = "Chocolate";
+            //Recheio = "Morango";
+            //Cobertura = "Chocolate";
+            //Camadas = 2;
+            //Tamanho = "Familia";
         }
     }
 }
